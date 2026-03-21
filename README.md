@@ -12,6 +12,7 @@ This portfolio showcases **Agentic AI, Systems Engineering, and Security**. It b
 *   **ClinicalBERT Disease Prediction** – Transformer-based NLP pipeline for clinical symptom-to-disease mapping.
 *   **Stock Price Prediction (LSTM)** – Time-series forecasting utilizing Deep Learning and Transfer Learning.
 *   **Bluetooth BIAS Attack** – Technical replication of authentication exploits from existing research within a controlled Linux environment.
+*   **DHCP server** - DHCP server implementation showcasing dynamic IP assignment via the DORA process.
 *   **Cash Register Application** – Modular C++ system implementing Abstract Factory and structural design patterns.
 
 ---
