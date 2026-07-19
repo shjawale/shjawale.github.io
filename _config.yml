@@ -1,0 +1,10 @@
+theme: jekyll-theme-minimal
+title: Shruti Jawale
+description: Welcome to my official portfolio website.
+
+header_pages:
+  - index.md
+  - projects.md
+  - experience.md
+  - volunteering.md
+
